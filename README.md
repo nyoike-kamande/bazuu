@@ -12,7 +12,7 @@ Version: 1.0
 
 Author: Brian Nyoike Kamande
 
-Author URI: http://brian.blockybits.co.ke/
+Author URI: https://brian.blockybits.co.ke/
 
 Bazuu: Your Guide to Street Slang in Kenya
 
